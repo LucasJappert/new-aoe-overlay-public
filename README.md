@@ -14,7 +14,7 @@ To use the overlay, host it on a web server and access it via URL with the follo
 
 -   With match counter: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&match_counter`
 
-![Full Overlay](full.png)
+![Full Overlay](full1.png)
 
 -   Compact mode: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&compact`
 
