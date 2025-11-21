@@ -12,9 +12,14 @@ To use the overlay, host it on a web server and access it via URL with the follo
 
 ### Example URLs
 
--   Basic usage: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456`
--   Compact mode: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&compact`
 -   With match counter: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&match_counter`
--   All options: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&compact&match_counter`
+
+![Full Overlay](full.png)
+
+-   Compact mode: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456&compact`
+
+![Compact Overlay](compact.png)
+
+-   Basic usage: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456`
 
 The overlay will automatically update match data every 5 seconds and display information for 1v1 matches.
