@@ -22,4 +22,6 @@ To use the overlay, host it on a web server and access it via URL with the follo
 
 -   Basic usage: `https://lucasjappert.github.io/new-aoe-overlay-public/?profile_id=123456`
 
-The overlay will automatically update match data every 5 seconds and display information for 1v1 matches.
+## Contributing
+
+We love Age of Empires 2! If you'd like to cooperate on the project, contact me on Discord: Marty#1533.
