@@ -7,7 +7,7 @@ This is a live overlay for Age of Empires 2 that displays real-time match inform
 To use the overlay, host it on a web server and access it via URL with the following parameters:
 
 -   `profile_id`: The player's profile ID (required). This is the numeric ID of the AOE2 player you want to track.
--   `compact`: Optional. If present or set to "true", enables compact mode with a smaller overlay size (1000px width instead of 1280px).
+-   `compact`: Optional. If present or set to "true", enables compact mode with a smaller overlay size.
 -   `match_counter`: Optional. If present, displays a match counter below the overlay showing wins and losses.
 
 ### Example URLs
